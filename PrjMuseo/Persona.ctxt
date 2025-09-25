@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\n\ Clase\ que\ representa\ una\ persona\ que\ puede\ visitar\ el\ museo.\n\ Cada\ persona\ tiene\ nombre,\ identificaci\u00F3n\ y\ puede\ tener\ asignado\ un\ boleto.\n\ \n\ @author\ Sara\ Segura\ \n\ @version\ 1,0\n
+comment1.params=nombre\ ident
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ que\ crea\ una\ persona\ con\ nombre\ e\ identificaci\u00F3n.\n\ \n\ @param\ nombre\ el\ nombre\ de\ la\ persona\n\ @param\ ident\ la\ identificaci\u00F3n\ de\ la\ persona\n
+comment2.params=nombre
+comment2.target=Persona(java.lang.String)
+comment2.text=\n\ Constructor\ que\ crea\ una\ persona\ solo\ con\ nombre.\n\ La\ identificaci\u00F3n\ puede\ ser\ asignada\ posteriormente.\n\ \n\ @param\ nombre\ el\ nombre\ de\ la\ persona\n
+comment3.params=pIdentificacion
+comment3.target=void\ setIdentificacion(java.lang.String)
+comment3.text=\n\ Establece\ o\ modifica\ la\ identificaci\u00F3n\ de\ la\ persona.\n\ \n\ @param\ pIdentificacion\ la\ nueva\ identificaci\u00F3n\n
+comment4.params=pMiBoleto
+comment4.target=void\ asignarBoleto(BoletoMuseo)
+comment4.text=\n\ Asigna\ un\ boleto\ de\ museo\ a\ la\ persona.\n\ \n\ @param\ pMiBoleto\ el\ boleto\ a\ asignar\n
+comment5.params=
+comment5.target=int\ consultarMiNumeroDeBoleto()
+comment5.text=\n\ Consulta\ el\ n\u00FAmero\ del\ boleto\ asignado\ a\ la\ persona.\n\ \n\ @return\ el\ n\u00FAmero\ del\ boleto\ asignado\n\ @throws\ NullPointerException\ si\ no\ hay\ boleto\ asignado\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Representaci\u00F3n\ en\ String\ del\ objeto\ Persona.\n\ Incluye\ informaci\u00F3n\ del\ nombre,\ identificaci\u00F3n\ y\ boleto\ asignado.\n\ \n\ @return\ una\ cadena\ con\ toda\ la\ informaci\u00F3n\ de\ la\ persona\n
+numComments=7

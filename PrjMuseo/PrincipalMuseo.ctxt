@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PrincipalMuseo
+comment0.text=\n\ Clase\ principal\ que\ demuestra\ el\ funcionamiento\ del\ sistema\ de\ ventas\ de\ boletos\ del\ museo.\n\ Crea\ personas,\ boletos\ y\ registra\ las\ ventas\ del\ d\u00EDa,\ mostrando\ la\ informaci\u00F3n\ resultante.\n\ \n\ @author\ Sara\ Segura\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ demostraci\u00F3n\ del\ sistema.\n\ Crea\ tres\ personas\ con\ sus\ respectivos\ boletos,\ registra\ las\ ventas\n\ y\ muestra\ la\ informaci\u00F3n\ de\ cada\ objeto\ creado.\n\ \n\ @param\ args\ argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ utilizados)\n
+numComments=2
